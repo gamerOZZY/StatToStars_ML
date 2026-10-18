@@ -1095,7 +1095,7 @@ git clone <repository-url>
 cd StatToStars_ML
 ```
 
-Replace `<repository-url>` with the repository's actual URL.
+Replace `<https://github.com/gamerOZZY/StatToStars_ML.git>` with the repository's actual URL.
 
 ### 2. Create a virtual environment
 
@@ -1118,8 +1118,6 @@ If PowerShell blocks script execution, activate the environment using an appropr
 ```bash
 pip install nba_api pandas
 ```
-
-To make the environment reproducible, consider maintaining a `requirements.txt` file containing the project's dependencies.
 
 ---
 
