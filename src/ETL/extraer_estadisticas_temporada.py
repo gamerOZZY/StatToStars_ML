@@ -7,7 +7,7 @@ from nba_api.stats.endpoints import leaguedashplayerstats
 
 
 # Directorio raíz del proyecto
-RAIZ_PROYECTO = Path(__file__).resolve().parent.parent
+RAIZ_PROYECTO = Path(__file__).resolve().parent.parent.parent
 
 DIRECTORIO_BRONZE = (
     RAIZ_PROYECTO

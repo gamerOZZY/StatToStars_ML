@@ -5,7 +5,7 @@ from pathlib import Path
 from nba_api.stats.endpoints import leaguedashptstats
 
 
-RAIZ_PROYECTO = Path(__file__).resolve().parent.parent
+RAIZ_PROYECTO = Path(__file__).resolve().parent.parent.parent
 
 DIRECTORIO_BRONZE = (
     RAIZ_PROYECTO
