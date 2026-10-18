@@ -1,0 +1,9 @@
+## enviroment
+
+env/
+venv/
+.venv/
+.venv/
+
+## Coso de libretas
+notebooks/
